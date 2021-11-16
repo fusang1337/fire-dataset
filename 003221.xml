@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pic_500x300_lab</folder>
+	<filename>003221.jpg</filename>
+	<path>D:\pic_500x300_lab\003221.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>598</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>181</ymin>
+			<xmax>253</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>
