@@ -1,0 +1,26 @@
+<annotation>
+	<folder>/home/thhicv/program/data/1241115235354/pic_500x300_lab/</folder>
+	<filename>8747.jpg</filename>
+	<path>/home/thhicv/program/data/1241115235354/pic_500x300_lab//8747.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>619</xmin>
+			<ymin>500</ymin>
+			<xmax>732</xmax>
+			<ymax>583</ymax>
+		</bndbox>
+	</object>
+</annotation>
